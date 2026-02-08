@@ -12,7 +12,7 @@
 <h2 align="left">Hi there! 👋 I'm Ramya, a Pre-final year student from Jain University and an enthusiastic learner of AI & ML.</h2>
 
 - 🔭 I’m currently working on **Sign Language Recognition using MediaPipe and ML**  
-- 🌱 I’m currently learning **Deep Learning, Data Structures and Algorithms, and Frontend Development**  
+- 🌱 I’m currently learning **Deep Learning and Frontend Development**  
 - 👯 I’m looking to collaborate on **Open-source AI/ML projects and Research in Ethical AI**  
 - 🤝 I’m seeking help with **Autonomous Vehicle Path Parking**  
 - 💬 Ask me about **Python, Machine Learning, or Research Paper Writing**  
