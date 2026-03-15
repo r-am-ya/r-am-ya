@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Deep Learning and Frontend Development**  
 - 👯 I’m looking to collaborate on **Open-source AI/ML projects and Research in Ethical AI**  
 - 🤝 I’m seeking help with **Autonomous Vehicle Path Parking**  
-- 💬 Ask me about **Python, Machine Learning, or Research Paper Writing**  
+- 💬 Ask me about **Python, Machine Learning**  
 - 📫 Reach me at: **kuruvalaramya2006@gmail.com**  
 - ⚡ Fun fact: **I believe AI won’t replace people — but people using AI might 😉**
 
